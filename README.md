@@ -10,6 +10,7 @@ Scikit-Learn is one of the major libraries for machine learning in Python. This 
 ## Part 1 - The Data Science Pipeline
 This workshop introduces the fundamentals of machine learning (ML): How does ML differ from statistics? Which types of problems are best suited for ML? We will explore different real-world problems and learn to distinguish between supervised and unsupervised learning. You will become familiar with the main stages of the data science pipeline: data wrangling, cleaning and pre-processing, modeling, optimization and model validation, and post-processing and visualization.
 
+Introduction slides: [Introduction to ML](https://github.com/nuitrcs/scikit-learn-workshop/blob/main/01%20-%20Introduction%20to%20ML.pdf)
 
 Python notebook: **01-The_Data_Science_Pipeline.ipynb**
 
