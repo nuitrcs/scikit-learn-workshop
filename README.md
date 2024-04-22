@@ -12,6 +12,6 @@ This workshop introduces the fundamentals of machine learning (ML): How does ML 
 
 Introduction slides: [Introduction to ML](https://github.com/nuitrcs/scikit-learn-workshop/blob/main/01%20-%20Introduction%20to%20ML.pdf)
 
-Python notebook: **01-The_Data_Science_Pipeline.ipynb**
+Python notebook: [01-The_Data_Science_Pipeline.ipynb](https://github.com/nuitrcs/scikit-learn-workshop/blob/main/01-The_Data_Science_Pipeline.ipynb)
 
 Google Colab notebook: [The Data Science Pipeline](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/01-The_Data_Science_Pipeline.ipynb)
