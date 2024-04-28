@@ -15,3 +15,10 @@ Introduction slides: [Introduction to ML](https://github.com/nuitrcs/scikit-lear
 Python notebook: [01-The_Data_Science_Pipeline.ipynb](https://github.com/nuitrcs/scikit-learn-workshop/blob/main/01-The_Data_Science_Pipeline.ipynb)
 
 Google Colab notebook: [The Data Science Pipeline](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/01-The_Data_Science_Pipeline.ipynb)
+
+## Part 2 - Supervised Learning - Regression
+Regression analysis is a powerful tool for uncovering the associations between features of your data (known as independent variables) and dependent variables (usually denoted by Y). In this workshop, you will learn to identify ML tasks suited for regression analysis, appropriately process independent variables, train and evaluate models, and generate predictions. We will also discuss some common pitfalls and assumptions of the chosen modeling techniques. 
+
+Google Colab notebooks: 
+ - [Regression workbook](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/02-Regression_workbook.ipynb)
+ - [Regression concepts](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/02-Regression_concepts.ipynb)
