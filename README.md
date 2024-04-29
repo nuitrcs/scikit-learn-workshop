@@ -24,3 +24,5 @@ Regression analysis is a powerful tool for uncovering the associations between f
 Google Colab notebooks: 
  - [Regression workbook](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/02-Regression_workbook.ipynb)
  - [Regression concepts](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/02-Regression_concepts.ipynb)
+
+[Recording](https://northwestern.zoom.us/rec/share/gD8moLzX6QbBKvFfU9RxH4TCIas4TbHhc6xQwQSScNYCJ0tED2vZd0vGNCn8alro.Qz6a5kOus8KYJy2j)
