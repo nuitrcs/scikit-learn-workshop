@@ -32,5 +32,5 @@ In this session, we will continue modeling with linear regression. We will train
 
 Google Colab notebooks:
 - [Regression concepts](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/02-Regression_concepts.ipynb)
-- [03 Regression workbook modeling](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/03-Regression_workboook_modeling.ipynb)
+- [03 Regression workbook modeling](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/03-Regression_workbook_modeling.ipynb)
 - [03 Regularization](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/03-Regularization.ipynb)
