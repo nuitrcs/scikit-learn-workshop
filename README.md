@@ -26,3 +26,11 @@ Google Colab notebooks:
  - [Regression concepts](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/02-Regression_concepts.ipynb)
 
 [Recording](https://northwestern.zoom.us/rec/share/gD8moLzX6QbBKvFfU9RxH4TCIas4TbHhc6xQwQSScNYCJ0tED2vZd0vGNCn8alro.Qz6a5kOus8KYJy2j)
+
+## Part 3 - Supervised Learning - Regression and Regularization
+In this session, we will continue modeling with linear regression. We will train, and optimize our model. We will also learn to evaluate models and generate predictions. If time permits, we will then go through the concept of regularization and hyperparameter tuning for ML models.
+
+Google Colab notebooks:
+- [Regression concepts](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/02-Regression_concepts.ipynb)
+- [03 Regression workbook modeling](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/03-Regression_workboook_modeling.ipynb)
+- [03 Regularization](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/02-Regularization.ipynb)
