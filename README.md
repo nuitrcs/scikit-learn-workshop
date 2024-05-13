@@ -39,5 +39,9 @@ Google Colab notebooks:
 
 ## Part 4 - Unsupervised Learning: Clustering and Dimensionality Reduction
 In this session, we will learn the basics of clustering. Time permitting, we will explore a bit of dimensionality reduction.
+
+Jupyter notebook:
+- [04-Clustering](https://github.com/nuitrcs/scikit-learn-workshop/blob/main/04-clustering.ipynb)
+
 Google Colab notebook:
 - [Clustering](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/04-clustering.ipynb)
