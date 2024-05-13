@@ -36,3 +36,8 @@ Google Colab notebooks:
 - [03 Regularization](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/03-Regularization.ipynb)
 
 [Recording](https://northwestern.zoom.us/rec/share/z-TA-OhFt1yXPrt-WpGvzU5fqqrQyQ8CIGTTteQUFjs3ifhvTYzG3bPD_040OAmh.CcYvO8Fszko-Qy7w)
+
+## Part 4 - Unsupervised Learning: Clustering and Dimensionality Reduction
+In this session, we will learn the basics of clustering. Time permitting, we will explore a bit of dimensionality reduction.
+Google Colab notebook:
+- [Clustering](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/04-clustering.ipynb)
