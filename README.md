@@ -45,3 +45,5 @@ Jupyter notebook:
 
 Google Colab notebook:
 - [Clustering](https://colab.research.google.com/github/nuitrcs/scikit-learn-workshop/blob/main/04-clustering.ipynb)
+
+[Recording](https://northwestern.zoom.us/rec/share/AMcDf80D__yTp96IIGRj6DH3RITV_mIZkuSRCZ5xNsXzL2i7JRGDzH_nfwJ5hpeM.Oz7HSkzYDt_Fp6kK)
