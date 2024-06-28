@@ -1,6 +1,6 @@
 # Python: scikit-learn
 
-#### <br><br>To download the materials to your own computer, click on the green Code button and choose Download ZIP. Unzip the folder. Open Jupyter Lab and navigate to the folder you downloaded. Start with ML_workflow_1.ipynb.
+#### <br><br>To download the materials to your own computer, click on the green Code button and choose Download ZIP. Unzip the folder. Open Jupyter Lab and navigate to the folder you downloaded.
 
 #### <br><br>Links to open the notebooks on the cloud (Google Colab):
 
